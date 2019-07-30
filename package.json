@@ -1,5 +1,5 @@
 {
-    "name": "ondif-js",
+    "name": "@documents-design/ondif-js",
     "version": "0.1.0",
     "main": "dist/index.js",
     "repository": "https://github.com/lucassifoni/ondif-js.git",
